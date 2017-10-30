@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Friendly Chat</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_string">Empty</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="messages_reference">messages</string>
+    <string name="singed_in">Signed in...</string>
+    <string name="Sing_in_cancelled">Sing in cancelled...</string>
+    <string name="photos_reference">chat_photos</string>
+    <string name="photo_picker_descriptopn">Select photo</string>
+    <string name="send_button_descriptopn">Send the message</string>
+    <string name="write_your_message_description">Write your message here</string>
+</resources>
